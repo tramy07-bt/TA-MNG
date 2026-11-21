@@ -167,6 +167,7 @@
       render();
       animateSlide();
     });
+   
     render();
   </script>
  </body>
